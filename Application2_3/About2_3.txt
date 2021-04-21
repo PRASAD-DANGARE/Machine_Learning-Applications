@@ -1,0 +1,7 @@
+• In this application Iris2.py we are using Iris data set which contains information about the flowers under Iris family. 
+• There are three types of flowers in this family as 1) Iris Versicolor, 2) Iris Setosa, 3) Iris Verginica.
+• This data set Iris.csv contains 4 Features as Sepal length, Sepal width, petal length and petal width. 
+• This data set contains 150 records (Volume).
+
+• In this application Iris1.py we remove one entry from each label of iris dataset and train with the remaining entries. 
+• And we apply predictions based on Decision tree with that removed entries.

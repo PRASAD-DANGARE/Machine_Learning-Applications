@@ -1,0 +1,4 @@
+• In This Application I Train Iris Data Set With Decision Tree Algorithm.
+• I Divide iris Data Set Into Two Equal Parts As Training Data And Test Data. 
+• I Apply Training On Training Data And Predict The Result On Test Data. 
+• I Calculate Accuracy Of Both The Algorithms By Applying Of Test Data. 

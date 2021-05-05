@@ -1,0 +1,8 @@
+• In This Application I Create My Own Algorithm For Classified Machine Learning. 
+• I Create My Own K Nearest Neighbour Algorithm. 
+• For User Defined Algorithm I Design One Class Named As MarvellousKNN. 
+• This Class Contains 3 Methods As fit, predict, Shortest Method. 
+• There Is One Naked Method CalculateDistance() Which Calculate Distance Between Two Points Using Euclidean Distance Algorithm. 
+• fit() Method Initialises Training Data And Its Targets Inside Class. 
+• predict() Method Creates One Array As Prediction Which Stores Shortest Distance Between All Test Data And Training Data Elements. 
+• predict() Method Calls Shortest Method Which Returns The Shortest Distance. 

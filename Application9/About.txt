@@ -1,0 +1,4 @@
+Supervised Machine Learning 
+Linear Regression with User Defined Algorithm
+Consider Linear_Regression.py Program which implements linear regression using Least Square method. 
+We are using R Square method to find out Goodness of fit

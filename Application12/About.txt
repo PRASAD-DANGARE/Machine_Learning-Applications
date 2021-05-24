@@ -1,0 +1,27 @@
+> There Is One Data Set WinePredictor.csv Which Classify The Wines According To Its Contents Into Three Classes.
+
+> These Data Are The Results Of A Chemical Analysis Of Wines Grown In The Region Of Italy But Derived From Three Different Cultivars, 
+  The Analysis Determined The Quantities Of 13
+  Constituents Found In Each Of The Three Types Of Wines.
+
+> Wine Data Set Contains 13 Features As : 
+
+1) Alcohol
+2) Malic Acid
+3) Ash
+4) Alcalinity Of Ash
+5) Magnesium
+6) Total Phenols
+7) Flavanoids
+8) Nonflavanoid Phenols
+9) Proanthocyanins
+10) Color Intensity
+11) Hue
+12) OD280/OD315 Of Diluted Wines
+13) Proline
+
+> According To The Above Features Wine Can Be Classified As :
+
+1) Class 1
+2) Class 2
+3) Class 3

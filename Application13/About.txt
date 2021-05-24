@@ -1,0 +1,3 @@
+> There Is One Data Set TitanicDataset.csv Which Contains Information About The Passengers From Titanic. 
+> This Data Set Describe Multiple Features About Survived And Non Survived Passengers.
+> So In This Case Study We See The Status Of Survived And Non Survived Passengers Using Logistic Regression Along With Confusion Matrix.  

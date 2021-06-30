@@ -1,0 +1,7 @@
+In This Case Study There Is One Dataset As diabetes.csv Which Contain Some Elements / Features Such As :
+Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, Outcome.
+
+Which Helps To Detect Whether A Person Having Diabetes Or Not According To This Features.
+
+So For That I Use / Test Various Types Of Algorithms To Check And Get The Best Accuracy, 
+Such As : Decision Tree, K Nearest Neighbores, Random Forest, Logistic Regression Which Comes Under Supervised ML Algorithm. 

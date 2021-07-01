@@ -28,4 +28,6 @@ A) Aplications Based On Supervised Machine Learning Algorithms Under Classificat
 
 12) Titanic Case Study Using Logistic Regression Algorithms.
 
+13) Diabetes Case Study Using Random Forest Algorithm. 
+
 B) Aplications Based On Un-Supervised Machine Learning Algorithms Under Clustering : 

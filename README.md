@@ -34,4 +34,6 @@ A) Aplications Based On Supervised Machine Learning Algorithms Under Classificat
 
 15) Ensemble Application Using Bagging Technique In MNIST  
 
+16) IRIS Case Study Using Heterogeneous Algorithm Technique 
+
 B) Aplications Based On Un-Supervised Machine Learning Algorithms Under Clustering : 

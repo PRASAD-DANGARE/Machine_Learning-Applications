@@ -52,7 +52,7 @@ def Boosting_Using_DT():
 
     print("\n----------------------------------------------------\n")
 
-    #ADT = AdaBoostClassifier(DT, n_estimators = 50, learning_rate = 1)
+    #ADT = AdaBoostClassifier(DT, n_estimators = 50,learning_rate = 1)
     #ADT = AdaBoostClassifier(DecisionTreeClassifier(), n_estimators = 50, learning_rate = 1.0, random_state = 3)
     ADT = AdaBoostClassifier(RandomForestClassifier(), n_estimators = 20, learning_rate = 1.0, random_state = 3)
 

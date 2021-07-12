@@ -30,7 +30,7 @@ A) Aplications Based On Supervised Machine Learning Algorithms Under Classificat
 
 13) Diabetes Case Study Using Random Forest Algorithm. 
 
-14) Ensemble Application Using Boosting technique In MNIST.
+14) Ensemble Application Using Boosting technique In MNIST / IRIS.
 
 15) Ensemble Application Using Bagging Technique In MNIST  
 

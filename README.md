@@ -36,4 +36,6 @@ A) Aplications Based On Supervised Machine Learning Algorithms Under Classificat
 
 16) IRIS Case Study Using Heterogeneous Algorithm Technique 
 
+17) Advertisment Predictor Using Linear Regression 
+
 B) Aplications Based On Un-Supervised Machine Learning Algorithms Under Clustering : 
